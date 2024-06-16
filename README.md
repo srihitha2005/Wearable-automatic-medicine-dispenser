@@ -12,4 +12,5 @@ This repository contains the design documentation for a wearable automatic medic
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contributions are welcome! Please feel free to open issues and submit pull requests and develop the project and the design.
+## Contributions
+Any Contributions are welcome! Please feel free to open issues and submit pull requests and develop the project and the design.
